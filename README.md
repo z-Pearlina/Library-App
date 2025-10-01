@@ -25,6 +25,7 @@ This project was created as a **learning exercise** to explore the basics of Flu
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic1.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic2.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic3.jpg" width="200" />
+  
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic4.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic5.jpg" width="200" />
   <img src="https://github.com/z-Pearlina/Library-App/blob/main/screenshots/pic6.jpg" width="200" />
